@@ -1,0 +1,144 @@
+#aboutMeSection {
+    background-color: whitesmoke;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.name {
+    margin-bottom: 0px;
+}
+
+.ryanTitle {
+    color: teal;
+    margin-top: 0px;
+
+}
+
+.edTitle {
+    margin-bottom: 0px;
+    
+}
+
+.edSub {
+    margin-top: 0px;
+    color: teal;
+}
+
+.romanceCopy {
+    color: #333;
+    margin-top: 0px;
+    font-size: 12pt;
+
+}
+
+.portrait {
+    width: 315px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+#contact-section {
+    margin-top: 10px;
+}
+
+.email-line {
+    text-decoration: none;
+    display: inline;
+    padding: 5px;
+}
+
+#skillsSection {
+    background-color: rgb(227, 235, 235);
+    padding: 20px;
+}
+
+.skills {
+    text-align: center;
+    color: #343a40;
+}
+
+.skills-description {
+    text-align: center;
+    color:#555
+}
+
+.skills-card {
+    margin-top: 20px;
+}
+
+.skills-h6 {
+    color: teal;
+}
+
+#portfolio-section {
+    background-color: whitesmoke;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+#project-box {
+    background-color: #343a40;
+    padding: 20px;
+}
+
+.project-number {
+    color: teal;
+    margin-top: 0;
+}
+
+.card-title {
+    margin-bottom: 0;
+}
+
+.card-description {
+    line-height: normal;
+}
+
+.project-title {
+    color: whitesmoke;
+    margin-bottom: 0;
+    line-height: normal;
+}
+
+.box-description {
+    margin-top: 0;
+    color: rgb(194, 194, 194);
+}
+
+.project-list {
+    color: rgb(194, 194, 194);
+    font-size: 11pt;
+}
+
+.logo {
+    width: 350px;
+}
+
+.envelope-icon svg {
+    margin-right: 30px;
+    color: rgb(227, 235, 235);
+   }
+
+   .envelope-icon svg :hover {
+    margin-right: 30px;
+    color: white;
+    cursor: pointer;
+   }
+
+   .btn-icon {
+       text-decoration: none;
+   }
+
+   .copyright {
+       text-align: center;
+       background-color: #343a40;
+       color: whitesmoke;
+       font-size: 12pt;
+       height:50px;
+       padding: 15px;
+   }
