@@ -15,7 +15,7 @@ const ProjectOne = (props) => {
           <h5 className="card-title">Event5 Now</h5>
           <h6 className="project-number">CWRU Bootcamp project 1</h6>
           <p className="card-description">An entertainment application that links users to local events based on the 5 day weather forecast.</p>
-          <Button>Visit Site</Button>
+          <Button><a href= "https://hd1g.github.io/project1/">Visit Site</a></Button>
         </CardBody>
       </Card>
     </div>

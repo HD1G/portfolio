@@ -15,7 +15,7 @@ const ProjectTwo = (props) => {
           <h5 className="card-title">Next Track Up</h5>
           <h6 className="project-number">CWRU Bootcamp project 2</h6>
           <p className="card-description">A community playlist application where friends share and add to each others creations</p>
-          <Button>Visit Site</Button>
+          <Button> <a href ="https://nexttrackup.herokuapp.com/playlist">Visit Site</a></Button>
         </CardBody>
       </Card>
     </div>
